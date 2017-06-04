@@ -1,5 +1,4 @@
-# wget-script-win
-WGET shell script for Windows
+# WGET shell script for Windows (wget-script-win)
 
 Tested with WGET 1.19.1 bin for Windows x32/x64
 
